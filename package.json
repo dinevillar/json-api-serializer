@@ -1,5 +1,5 @@
 {
-  "name": "json-api-serializer",
+  "name": "@dinevillar/json-api-serializer",
   "version": "1.11.0",
   "description": "Framework agnostic JSON API serializer.",
   "main": "index.js",
@@ -16,7 +16,7 @@
     "serializer"
   ],
   "author": "Kévin Danielo",
-  "repository": "danivek/json-api-serializer",
+  "repository": "dinevillar/json-api-serializer",
   "license": "MIT",
   "engines": {
     "node": ">= 4.0.0"
